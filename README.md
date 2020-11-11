@@ -1,6 +1,6 @@
 # flutter_steps
 
-A new Flutter application that tracks your steps
+A new Flutter application that tracks your steps using the pedometer 
 
 ## Getting Started
 
